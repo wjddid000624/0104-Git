@@ -1,2 +1,2 @@
 def print2():
-    print('빅꿀잼')
+    print('빅빅빅~꿀잼')
